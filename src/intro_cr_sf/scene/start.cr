@@ -1,4 +1,4 @@
-module GameSFTemplate::Scene
+module IntroCrSf::Scene
   class Start < GSF::Scene
     getter start_scene : Symbol?
     getter items
